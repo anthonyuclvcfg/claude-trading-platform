@@ -1,0 +1,40 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "american-fox-trading-platform-public",
+  "displayName": "American Fox Trading Platform",
+  "version": "1.0.6",
+  "description": "American Fox® Trading Platform provides performance statistics, strategy versions, and historical results across multiple markets. Its AI-managed, self-evolving algorithms study market behavior and price dynamics. Algorithm changes may not improve performance. The plugin supports research and monitoring; it does not execute trades or provide personalized investment advice. Historical results offer context, without guaranteeing future performance, predictive accuracy, or a trading advantage.",
+  "author": {
+    "name": "American Fox Corporation",
+    "email": "support@americanfox.org",
+    "url": "https://americanfox.org/signals"
+  },
+  "homepage": "https://americanfox.org/signals",
+  "license": "LicenseRef-AmericanFox-Proprietary",
+  "icon": "./.claude-plugin/icon.png",
+  "supportUrl": "https://americanfox.org/signals/support",
+  "privacyPolicyUrl": "https://americanfox.org/signals/privacy",
+  "termsOfServiceUrl": "https://americanfox.org/signals/terms",
+  "keywords": [
+    "Interactive",
+    "Performance Analytics",
+    "Finance",
+    "Markets",
+    "Crypto",
+    "Stocks",
+    "Options",
+    "Futures",
+    "Forex",
+    "Event Contracts",
+    "Strategy Version Analysis",
+    "Trade History",
+    "Positions Overview",
+    "Algorithmic Strategies",
+    "Daily Results",
+    "Trade Execution Details",
+    "Event Settlements",
+    "Version Activity",
+    "Automatic Refresh",
+    "Automatic Localization"
+  ]
+}
