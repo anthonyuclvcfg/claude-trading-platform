@@ -2,7 +2,7 @@
   "mcpServers": {
     "american-fox-public-results": {
       "type": "http",
-      "url": "https://www.americanfox.org/signals/chatgpt/claude"
+      "url": "https://www.americanfox.org/signals/claude"
     }
   }
 }

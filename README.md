@@ -28,7 +28,7 @@ Ask, for example: *Show Daily results for the last 15 days using my timezone, pr
 
 ## How it works
 
-The plugin adds one connector, `american-fox-public-results`, at `https://www.americanfox.org/signals/chatgpt/claude`. Its single tool, `view_strategies`, is read-only. It returns American Fox's approved public results and displays them in an interactive panel. The connector needs no account, sign-in or API key, and it cannot place orders, move funds, switch accounts, or reveal proprietary rules or credentials.
+The plugin adds one connector, `american-fox-public-results`, at `https://www.americanfox.org/signals/claude`. Its single tool, `view_strategies`, is read-only. It returns American Fox's approved public results and displays them in an interactive panel. The connector needs no account, sign-in or API key, and it cannot place orders, move funds, switch accounts, or reveal proprietary rules or credentials.
 
 ## Data and privacy
 
